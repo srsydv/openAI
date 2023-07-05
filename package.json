@@ -1,0 +1,34 @@
+{
+  "name": "openai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srsydv/openAI.git"
+  },
+  "author": "Shrish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srsydv/openAI/issues"
+  },
+  "homepage": "https://github.com/srsydv/openAI#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "openai": "^3.3.0",
+    "parcel": "^2.9.3"
+  },
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "crypto-browserify": "^3.12.0",
+    "events": "^3.3.0",
+    "os-browserify": "^0.3.0",
+    "path-browserify": "^1.0.1",
+    "process": "^0.11.10",
+    "stream-browserify": "^3.0.0"
+  }
+}
